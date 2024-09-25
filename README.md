@@ -1,0 +1,2 @@
+# Rigel
+ Space observation software
